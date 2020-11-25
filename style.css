@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding:  0;
+    box-sizing:border-box ;
+    font-family : 'Nerko One', cursive;
+}
+h1{
+    text-align: center;
+    font-size: 1.8rem;
+    color: black;
+    padding: 30px 0;
+
+}
+
+main{
+    width: 90%;height:550px;
+    margin: auto;border: 1px solid black;
+    display: flex; flex-wrap: wrap ; justify-content: space-around; align-items: center;
+}
+div{
+    width: 30%;height: 160px;
+    /* border: 1px solid red; */
+    box-shadow:2px 2px 5px grey ;
+    border-radius: 10px;cursor: pointer;
+
+}
+.a{
+    background-image: url(images/ms1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.a:hover{
+    background-color: royalblue;
+    transform: translateY(-10px);
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0,3)
+}
+
+.b{
+    background-image: url(images/ms2.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.b:hover{
+    background-color: royalblue;
+    transform: translateY(-10px);
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0,3)
+}
+
+
+.c{
+    background-image: url(images/ms3.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.c:hover{
+    background-color: royalblue;
+    transform: translateY(-10px);
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0,3)
+}
+
+.d{
+    background-image: url(images/ms4.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.d:hover{
+    background-color: royalblue;
+    transform: translateY(-10px);
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0,3)
+}
+
+.e{
+    background-image: url(images/ms5.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.e:hover{
+    background-color: royalblue;
+    transform: translateY(-10px);
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0,3)
+}
+
+.f{
+    background-image: url(images/ms6.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.f:hover{
+    background-color: royalblue;
+    transform: translateY(-10px);
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0,3)
+}
+.g{
+    background-image: url(images/ms7.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.g:hover{
+    background-color: royalblue;
+    transform: translateY(-10px);
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0,3)
+}
+.h{
+    background-image: url(images/ms8.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.h:hover{
+    background-color: royalblue;
+    transform: translateY(-10px);
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0,3)
+}
+.i{
+    background-image: url(images/ms9.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.i:hover{
+    background-color: royalblue;
+    transform: translateY(-10px);
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0,3)
+}
